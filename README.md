@@ -13,3 +13,6 @@ yarn add @supabase/supabase-js@1.33.3 react-query@4.0.0-beta.10 @heroicons/react
 yarn add @mantine/notifications@4.2.5
 ~~~
 https://tailwindcss.com/docs/guides/nextjs
+~~~
+volta install node@16.17.0
+~~~
